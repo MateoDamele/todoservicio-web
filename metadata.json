@@ -1,0 +1,6 @@
+{
+  "name": "Todoservicio — Panel de Control",
+  "description": "Panel de control operativo centralizado y gestión de recursos humanos para Todoservicio (Montevideo y Canelones, Uruguay).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
